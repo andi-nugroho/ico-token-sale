@@ -51,3 +51,8 @@
         height: auto;
     }
 }
+
+/* FIX: Mencegah menu mobile mengunci scroll halaman */
+body {
+  overflow: auto !important;
+}
