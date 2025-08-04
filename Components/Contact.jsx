@@ -40,7 +40,7 @@ const Contact = () => {
                 <i className="ion-ios-email"></i>
                   <div className="contact_detail">
                     <span>Phone</span>
-                    <p>+62 08963721245</p>
+                    <p>+62 8887770451</p>
                   </div>
                 </li>
                 <li className="animation" data-animation="fadeInUp" data-animation-delay="0.2s">
