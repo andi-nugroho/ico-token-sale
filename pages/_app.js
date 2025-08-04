@@ -9,7 +9,7 @@ export default function App({ Component, pageProps }) {
       <Head>
         <title>ZexoCash - DApps Token Sale</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <link rel="icon" href="/pages/icon.png"/>
+        <link rel="icon" href="/icon.png"/>
       </Head>
 
       <StateContextProvider>
