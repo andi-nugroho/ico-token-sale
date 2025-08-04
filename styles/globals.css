@@ -1,0 +1,53 @@
+@import url("./assets/bootstrap/css/bootstrap.min.css");
+@import url("./assets/css/animate.css");
+@import url("./assets/css/cryptocoins.css");
+@import url("./assets/css/font-awesome.min.css");
+@import url("./assets/css//ionicons.min.css");
+@import url("./assets/css/magnific-popup.css");
+@import url("./assets/css/responsive.css");
+@import url("./assets/css/spop.min.css");
+@import url("./assets/css/style.css");
+@import url("./assets/color/theme.css");
+@import url("./assets/owlcarousel/css/owl.carousel.min.css");
+@import url("./assets/owlcarousel/css/owl.theme.default.min.css");
+
+
+/* //CUSTOM STYLE */
+.new_icon_style {
+    display: flex;
+    align-items: center;
+}
+
+.new_fonr_size {
+    font-size: 1.4rem;
+    margin-right: 0.5rem;
+}
+
+.icon_color {
+    color: #fff;
+}
+
+.counter_time {
+    font-size: 2rem;
+    color: #fff;
+}
+
+.inline_style_1 {
+    left: 30%;
+}
+
+.inline_style_2 {
+    left: 75%
+}
+
+.new_color {
+    color: #fff;
+    font-size: 1.1rem;
+}
+
+@media only screen and (max-width: 600px) {
+    .new_image_css {
+        width: 50%;
+        height: auto;
+    }
+}
